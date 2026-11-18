@@ -1,7 +1,4 @@
-using System;
-using System.Windows.Forms;
-
-namespace ChatBot
+namespace BopeChat
 {
     internal static class Program
     {
